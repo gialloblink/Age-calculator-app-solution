@@ -59,7 +59,7 @@ input::-webkit-inner-spin-button {
 body{
     margin: 0;
     padding: 0;
-    background-color: var(--Light_grey);
+    background-color: var(--Off_white);
     min-height: 100vh;
     display: flex;
     flex-direction: column;
