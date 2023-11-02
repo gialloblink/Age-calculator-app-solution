@@ -43,8 +43,8 @@ Gli utenti dovrebbero essere in grado di:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://gialloblink.github.io/Age-calculator-app-solution](https://gialloblink.github.io/Age-calculator-app-solution)
+- Live Site URL: [https://www.frontendmentor.io/solutions/age-calculator-app-solution-hA8OgCGCHp](https://www.frontendmentor.io/solutions/age-calculator-app-solution-hA8OgCGCHp)
 
 ## My process
 
