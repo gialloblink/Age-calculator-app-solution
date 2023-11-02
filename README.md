@@ -58,7 +58,7 @@ Gli utenti dovrebbero essere in grado di:
 
 ### What I learned
 
-Per le funzioni di controllo dei dati inseriti nel form ho adottato una solutione che in caso di dato non corretto viene richiamata una fuzoene che aggiunge il messaggio di errore in più le classi di errore corrispondente all'input errato
+Per le funzioni di controllo dei dati inseriti nel form, ho adottato una soluzione in cui, in caso di dato non corretto, viene richiamata una funzione che aggiunge il messaggio di errore e le classi di errore corrispondenti all'input errato.
 
 
 ```js
