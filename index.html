@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <link rel="icon" type="image/png" sizes="32x32" href="./assets/images/favicon-32x32.png">
+
+  <!-- Font -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,700;1,400;1,800&display=swap" rel="stylesheet">
+  
+  <title>Frontend Mentor | Age calculator app</title>
+
+  
+  
+  <link href="index.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+
+    <main>
+      <form id="form">
+        <div id="inputContainer">
+        <div>
+          <p class="direttiva">Day</p>
+          <input id="inputDay" type="number" placeholder="DD">
+          <p class="warning"></p>
+        </div>
+        <div>
+          <p class="direttiva">Month</p>
+          <input id="inputMonth" type="number" placeholder="MM">
+          <p class="warning"></p>
+        </div>
+        <div>
+          <p class="direttiva">Year</p>
+          <input id="inputYear" type="number" placeholder="YYYY">
+          <p class="warning"></p>
+        </div>
+        </div>
+          <button type="submit" class="submit"><img src="assets/images/icon-arrow.svg" alt=""></button>
+      </form>
+      <div id="textContainer">
+        <div>
+          <p id="years">- -</p>
+          <h2>years</h2>
+        </div>
+        <div>
+          <p id="months">- -</p>
+          <h2>months</h2>
+        </div>
+        <div>
+          <p id="days">- -</p>
+          <h2>days</h2>
+        </div>
+      </div>
+    </main>
+  
+  <footer class="attribution">
+    <p>
+      Challenge by 
+      <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. 
+      Coded by 
+      <a href="https://www.giovannipolidoro.eu/" target="_blank">Giovanni Polidoro</a>.
+    </p>
+  </footer>
+  <script src="index.js"></script>
+</body>
+</html>
