@@ -181,8 +181,10 @@ button:hover{
     button{
         height: 65px;
         width: 65px;
+        /* margin-left: 115px; */
         margin-top: -80px;
-        margin-left: 115px;
+        left: 50%;
+        margin-left: -32.5px;
     }
     #textContainer div {margin-bottom: -15px;}
     #textContainer p {font-size: 3rem;}
